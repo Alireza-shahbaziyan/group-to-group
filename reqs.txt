@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+pyromod
+redis
+psutil
+bs4
+lxml
+aiohttp
